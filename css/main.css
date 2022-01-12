@@ -35,8 +35,9 @@ body{
     min-width: 320px;
     font-size: 30px;
     overflow: auto;
-    margin-right: 25px;
     position: relative;
+    margin-left:0px;
+    margin-right: 10px;
 }
 
 .spanNamber{
@@ -54,6 +55,8 @@ body{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    padding: 0;
+    margin-left:0px;
 }
 
 .textSpan {
