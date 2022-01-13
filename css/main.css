@@ -11,6 +11,10 @@ body{
     width: 100%;
 }
 
+.container-fluid{
+    padding: 0px 20px !important;
+}
+
 .heading{
     font-size: 50px !important;
 }
