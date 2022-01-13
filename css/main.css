@@ -38,6 +38,8 @@ body{
     font-size: 30px;
     overflow: auto;
     position: relative;
+    padding: 10px !important;
+    margin-right: 25px;
 }
 
 .spanNamber{
@@ -56,9 +58,13 @@ body{
     align-items: center;
     flex-wrap: wrap;
     /* padding: 0; */
-    margin-left:0px;
+    margin-right: -25px;
 }
 
 .textSpan {
     font-size: 50px !important;
+}
+
+.offcanvas{
+    width: 70%;
 }
